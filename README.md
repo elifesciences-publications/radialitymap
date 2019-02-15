@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Martin et al., "Control of endothelial cell polarity and sprouting angiogenesis by non-centrosomal microtubules". eLife, 2018. http://dx.doi.org/10.7554/eLife.33864
+
 # Radiality map
 
 [ImageJ](https://imagej.nih.gov/ij/)/[FIJI](http://fiji.sc/) macro that splits image to radial and non-radial components using output of [OrientationJ](http://bigwww.epfl.ch/demo/orientation/) plugin.
